@@ -18,12 +18,3 @@ a front end programmer with the React library. A hardworking person who loves co
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-## 📊 Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadhoseinbaba&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhoseinbaba&layout=compact&theme=radical)
-
-![GitHub followers](https://img.shields.io/github/followers/mohammadhoseinbaba?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/mohammadhoseinbaba?affiliations=OWNER%2CCOLLABORATOR&style=social)
